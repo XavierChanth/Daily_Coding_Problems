@@ -1,0 +1,11 @@
+C:\Users\chant\source\repos\DailyCodingProblems\P2\obj\Debug\netcoreapp2.1\P2.csprojAssemblyReference.cache
+C:\Users\chant\source\repos\DailyCodingProblems\P2\obj\Debug\netcoreapp2.1\P2.csproj.CoreCompileInputs.cache
+C:\Users\chant\source\repos\DailyCodingProblems\P2\obj\Debug\netcoreapp2.1\P2.AssemblyInfoInputs.cache
+C:\Users\chant\source\repos\DailyCodingProblems\P2\obj\Debug\netcoreapp2.1\P2.AssemblyInfo.cs
+C:\Users\chant\source\repos\DailyCodingProblems\P2\bin\Debug\netcoreapp2.1\P2.deps.json
+C:\Users\chant\source\repos\DailyCodingProblems\P2\bin\Debug\netcoreapp2.1\P2.runtimeconfig.json
+C:\Users\chant\source\repos\DailyCodingProblems\P2\bin\Debug\netcoreapp2.1\P2.runtimeconfig.dev.json
+C:\Users\chant\source\repos\DailyCodingProblems\P2\bin\Debug\netcoreapp2.1\P2.dll
+C:\Users\chant\source\repos\DailyCodingProblems\P2\bin\Debug\netcoreapp2.1\P2.pdb
+C:\Users\chant\source\repos\DailyCodingProblems\P2\obj\Debug\netcoreapp2.1\P2.dll
+C:\Users\chant\source\repos\DailyCodingProblems\P2\obj\Debug\netcoreapp2.1\P2.pdb

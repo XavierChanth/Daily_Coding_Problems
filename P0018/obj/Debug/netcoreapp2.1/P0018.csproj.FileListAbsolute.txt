@@ -1,0 +1,11 @@
+C:\Users\chant\source\repos\DailyCodingProblems\P0018\bin\Debug\netcoreapp2.1\P0018.deps.json
+C:\Users\chant\source\repos\DailyCodingProblems\P0018\bin\Debug\netcoreapp2.1\P0018.runtimeconfig.json
+C:\Users\chant\source\repos\DailyCodingProblems\P0018\bin\Debug\netcoreapp2.1\P0018.runtimeconfig.dev.json
+C:\Users\chant\source\repos\DailyCodingProblems\P0018\bin\Debug\netcoreapp2.1\P0018.dll
+C:\Users\chant\source\repos\DailyCodingProblems\P0018\bin\Debug\netcoreapp2.1\P0018.pdb
+C:\Users\chant\source\repos\DailyCodingProblems\P0018\obj\Debug\netcoreapp2.1\P0018.csproj.CoreCompileInputs.cache
+C:\Users\chant\source\repos\DailyCodingProblems\P0018\obj\Debug\netcoreapp2.1\P0018.AssemblyInfoInputs.cache
+C:\Users\chant\source\repos\DailyCodingProblems\P0018\obj\Debug\netcoreapp2.1\P0018.AssemblyInfo.cs
+C:\Users\chant\source\repos\DailyCodingProblems\P0018\obj\Debug\netcoreapp2.1\P0018.dll
+C:\Users\chant\source\repos\DailyCodingProblems\P0018\obj\Debug\netcoreapp2.1\P0018.pdb
+C:\Users\chant\source\repos\DailyCodingProblems\P0018\obj\Debug\netcoreapp2.1\P0018.csprojAssemblyReference.cache
